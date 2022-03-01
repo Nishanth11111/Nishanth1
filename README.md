@@ -1,2 +1,2 @@
 # Nishanth1
-learning repositry
+learning repositry for github nishanth
